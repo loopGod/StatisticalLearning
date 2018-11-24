@@ -13,6 +13,7 @@
 <br>EM参数估计
 <br>HMM 学习与预测
 <br>CRF 预测
+<br>boosting（暂无，后面补充）
 
 
 
